@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "asuna",
+      "platform": "pinterest",
+      "price": 150
+    },
+    {
       "name": "ghoul",
       "platform": "tiktok",
       "price": 3000
