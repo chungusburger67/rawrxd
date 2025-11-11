@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "botched",
+      "platform": "roblox",
+      "price": 300
+    },
+    {
       "name": "konohamaru",
       "platform": "roblox",
       "price": 200
