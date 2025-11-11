@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "arachnid",
+      "platform": "roblox",
+      "price": 700
+    },
+    {
       "name": "rollsroyce",
       "platform": "roblox",
       "price": 500
