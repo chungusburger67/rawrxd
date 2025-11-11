@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "mclovingif",
+      "platform": "twitter",
+      "price": 50
+    },
+    {
       "name": "skibiditoilet",
       "platform": "twitch",
       "price": 200
