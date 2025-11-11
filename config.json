@@ -1,0 +1,14 @@
+{
+  "accounts": [
+    {
+      "name": "bello",
+      "platform": "instagram",
+      "price": 123
+    },
+    {
+      "name": "rawrxd",
+      "platform": "instagram",
+      "price": 3000
+    }
+  ]
+}
