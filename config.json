@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "puckered",
+      "platform": "telegram",
+      "price": 150
+    },
+    {
       "name": "wendigos",
       "platform": "telegram",
       "price": 100
