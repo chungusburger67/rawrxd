@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "xxxtentacion",
+      "platform": "steam",
+      "price": 300
+    },
+    {
       "name": "bmo",
       "platform": "discord",
       "price": 2500
