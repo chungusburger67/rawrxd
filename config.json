@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "shinjuku",
+      "platform": "telegram",
+      "price": 3000
+    },
+    {
       "name": "twerp",
       "platform": "telegram",
       "price": 3000
