@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "demoralizing",
+      "platform": "telegram",
+      "price": 100
+    },
+    {
       "name": "nuisances",
       "platform": "telegram",
       "price": 75
