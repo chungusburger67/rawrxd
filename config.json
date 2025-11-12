@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "scrub",
+      "platform": "minecraft",
+      "price": 3000
+    },
+    {
       "name": "girly",
       "platform": "minecraft",
       "price": 15000
