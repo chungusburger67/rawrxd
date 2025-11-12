@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "enchant",
+      "platform": "roblox",
+      "price": 2000
+    },
+    {
       "name": "pete",
       "platform": "epicgames",
       "price": 150
