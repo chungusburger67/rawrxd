@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "linger",
+      "platform": "roblox",
+      "price": 1500
+    },
+    {
       "name": "scrub",
       "platform": "minecraft",
       "price": 3000
