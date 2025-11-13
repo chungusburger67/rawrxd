@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "urination",
+      "platform": "instagram",
+      "price": 300
+    },
+    {
       "name": "linger",
       "platform": "roblox",
       "price": 1500
