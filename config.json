@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "vampirina",
+      "platform": "twitch",
+      "price": 50
+    },
+    {
       "name": "protects",
       "platform": "instagram",
       "price": 700
