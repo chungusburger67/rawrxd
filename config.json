@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "doghouse",
+      "platform": "roblox",
+      "price": 250
+    },
+    {
       "name": "tricking",
       "platform": "roblox",
       "price": 350
