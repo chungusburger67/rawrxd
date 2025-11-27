@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "barbados",
+      "platform": "roblox",
+      "price": 500
+    },
+    {
       "name": "springtrap",
       "platform": "steam",
       "price": 150
